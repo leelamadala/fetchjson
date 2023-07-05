@@ -1,0 +1,16 @@
+{
+    "name": "fetchjson",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "mlsankar",
+    "contributors": [],
+    "dependencies": {
+        "axios": "^0.27.2"
+    }
+}
